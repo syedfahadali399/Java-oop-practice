@@ -30,7 +30,8 @@ public class task2 {
         double totalDistance = monday + thuesday + wednesday + thursday + friday + saturday + sunday;
 
         System.out.println("The user cover the distance in the whole week is " + totalDistance);
-
+ 
         input.close();
     }
+
 }
